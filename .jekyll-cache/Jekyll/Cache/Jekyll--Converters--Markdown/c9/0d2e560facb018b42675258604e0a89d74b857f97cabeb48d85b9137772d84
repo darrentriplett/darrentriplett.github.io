@@ -1,0 +1,24 @@
+I"|<h2 id="r-markdown">R Markdown</h2>
+
+<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com">http://rmarkdown.rstudio.com</a>.</p>
+
+<p>When you click the <strong>Knit</strong> button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</p>
+
+<figure class="highlight"><pre><code class="language-r" data-lang="r"><span class="n">summary</span><span class="p">(</span><span class="n">cars</span><span class="p">)</span></code></pre></figure>
+
+<figure class="highlight"><pre><code class="language-text" data-lang="text">##      speed           dist    
+##  Min.   : 4.0   Min.   :  2  
+##  1st Qu.:12.0   1st Qu.: 26  
+##  Median :15.0   Median : 36  
+##  Mean   :15.4   Mean   : 43  
+##  3rd Qu.:19.0   3rd Qu.: 56  
+##  Max.   :25.0   Max.   :120</code></pre></figure>
+
+<h2 id="including-plots">Including Plots</h2>
+
+<p>You can also embed plots, for example:</p>
+
+<p><img src="/figure/./_posts/2020-01-31-this-is-a-test/pressure-1.png" alt="plot of chunk pressure" /></p>
+
+<p>Note that the <code class="highlighter-rouge">echo = FALSE</code> parameter was added to the code chunk to prevent printing of the R code that generated the plot.</p>
+:ET
