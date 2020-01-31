@@ -1,7 +1,7 @@
 ---
 title: "testing"
 author: "Darren Triplett"
-date: "1/31/2020"
+date: "2020-01-31"
 output: html_document
 ---
 
